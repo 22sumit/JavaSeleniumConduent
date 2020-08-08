@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/SeleniumLib"/>
+	<classpathentry kind="lib" path="D:/Padhai/Jar Files/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="D:/Padhai/Jar Files/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/Padhai/Jar Files/ojdbc14-10g.jar"/>
+	<classpathentry kind="lib" path="D:/Padhai/Jar Files/selenium-2.53.1/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/poi"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Selenium 2.53.1"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

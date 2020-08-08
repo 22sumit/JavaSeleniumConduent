@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="suite"  verbose="1">
+	<parameter name="author" value="sumit" />
+	<parameter name="searchkey" value="selenium" />
+	<test name= "testNGTest" >
+		<classes>
+			<class name="sumPackage.Parameterization" />
+		</classes>
+	</test>
+</suite>
+	
+	
